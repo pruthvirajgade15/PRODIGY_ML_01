@@ -1,0 +1,13 @@
+numpy
+pandas 
+seaborn
+matplotlib
+scikit-learn
+ipykernel
+kaggle
+jupyterlab
+plotly
+streamlit
+scipy
+joblib
+pytest
