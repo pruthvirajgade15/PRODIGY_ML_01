@@ -11,3 +11,4 @@ streamlit
 scipy
 joblib
 pytest
+ipykernel
